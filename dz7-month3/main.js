@@ -70,3 +70,5 @@ bird.fly();
 console.log(dog.getInfo());  
 console.log(cat.getInfo());   
 console.log(bird.getInfo());  
+
+// for commit 
